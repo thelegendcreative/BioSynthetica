@@ -1,0 +1,8 @@
+{
+  "name": "BioSynthetica - Autonomous Enzyme Directed Evolution Studio",
+  "description": "Computational bioengineering workbench for in-silico enzyme active-site redesign, catalytic mutation trajectory prediction, and biophysical kinetics simulation using AlphaFold DB, RCSB PDB, and multi-agent Gemini reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
